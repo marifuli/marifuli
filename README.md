@@ -16,3 +16,5 @@
 - [Bootstrap](https://getbootstrap.com/)
 - [Vue Material](https://www.creative-tim.com/vuematerial/getting-started)
 - [MD Bootstrap](https://mdbootstrap.com/docs/standard/navigation/breadcrumb/)
+#### Tools 
+- [Laravel Log viewer](https://github.com/opcodesio/log-viewer)
