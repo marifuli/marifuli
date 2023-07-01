@@ -11,10 +11,12 @@
 - [Guzzle HTTP](https://docs.guzzlephp.org/en/stable/)
 - [Jetstream](https://jetstream.laravel.com)
 - [Socialite](https://laravel.com/docs/9.x/socialite)
+- [Detect browser with PHP](https://github.com/hisorange/browser-detect)
 #### Front End:
 - [VueJS v3](https://vuejs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Vue Material](https://www.creative-tim.com/vuematerial/getting-started)
 - [MD Bootstrap](https://mdbootstrap.com/docs/standard/navigation/breadcrumb/)
+- [Vue dateTime picker vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker)
 #### Tools 
 - [Laravel Log viewer](https://github.com/opcodesio/log-viewer)
