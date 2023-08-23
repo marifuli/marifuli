@@ -1,9 +1,9 @@
 # About Me:
 - 👋 Hi, I’m Md Ariful Islam
-- 👀 I’m interested in Laravel, Vue, Livewire, PHP Automation
-- 🌱 I’m currently learning Vue v3
-- 💞️ I’m looking to collaborate on Livewire and automation projects
-- 📫 My Gamil: imdarif122@gmail.com, Business email: contact@arifdev.com 
+- 👀 I’m interested in Laravel, Vue 3, PHP Automation, Google Cloud
+- 🌱 I’m currently learning Google cloud platform certification
+- 💞️ I’m looking to collaborate on EMS and automation projects
+- 📫 My Gamil: imdarif122@gmail.com, Business email: admin@arifdev.com 
 
 ### Open source projects I like & use:
 #### Back End:
