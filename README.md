@@ -13,7 +13,7 @@ A Dubai Company. I directly work with the Founder Mohandas Alle.
     We worked together in DailyNewsHighlights, Clevergraph, Bookofurls, MeandMyDiet.
     Ongoing Development From 2019
 
-### Deutch D1 & Lernwelt: Lead Developer  
+### Deutsch D1 & Lernwelt: Lead Developer  
 A German Teaching school located in Germany. I Work with the Owner and principal Philipp Samirae.
     They have two websites.  
         - A Learning Management System: https://lernwelt-deutsch.de/
