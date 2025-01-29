@@ -63,8 +63,6 @@ A Software Development Business registered in Bangladesh. I am a Partner and Dev
         We are discussing to deploy this to other Cantonment shopping malls as well.
 
 
-
-
 ### Open source projects I like & use:
 #### Back End:
 - [Laravel](https://github.com/laravel)
@@ -84,3 +82,18 @@ A Software Development Business registered in Bangladesh. I am a Partner and Dev
 - [Vue3 Multiselect - all in one](https://github.com/vueform/multiselect)
 - [Vue3 Image cropper - for uploaded iamge etc..](https://advanced-cropper.github.io/vue-advanced-cropper/introduction/getting-started.html)
 - [Vue dateTime picker vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker)
+
+
+#### Laravel Server errors:
+1. Mysql: too much bin log files
+2. Mysql: connection pools amount
+3. Nginx: increase file upload size
+4. Nginx: executable php files
+5. PHP: correct version
+6. PHP: increase file and post body size
+7. Laravel: Stupid file permission errors. (root, ariful, queue-worker, crontab, nginx) users should be able to have same ownership.
+8. Laravel: Customized message for 500 errors. Give a meaningfull response.
+9. Laravel: keep Queue Worker running
+10. Laravel: Run crontab tasks
+
+    
